@@ -58,3 +58,5 @@ CALCULATE(
 
 Fraud % =
 DIVIDE([Fraud Transactions], [Total Transactions])
+
+PowerBI dashboard: https://app.powerbi.com/view?r=eyJrIjoiMGIyNDNhMzctY2FkNi00NTFiLTlhNTUtNGQ3MDBhN2ZhNTA3IiwidCI6Ijk2NDY0YThhLWY4ZWQtNDBiMS05OWUyLTVmNmI1MGEyMDI1MCIsImMiOjN9
